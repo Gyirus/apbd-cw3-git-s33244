@@ -6,7 +6,7 @@ public interface IRentalService
 {
     bool RentEquipment(Equipment equipment, User user, int rentalDays);
     bool ReturnEquipment(string rentalId);
-    IEnumerable<Rental> GetActiveRentalsForUser(string userId);
-    IEnumerable<Rental> GetOverdueRentals();
+    List<Rental> GetActiveRentalsForUser(string userId);
+    List<Rental> GetOverdueRentals();
     void MarkEquipmentAsDamaged(string equipmentId);
 }

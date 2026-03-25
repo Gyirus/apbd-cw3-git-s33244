@@ -5,6 +5,6 @@ namespace apbd_cw3_s33244.Interfaces;
 public interface IUserService
 {
     void AddUser(User user);
-    IEnumerable<User> GetAllUsers();
+    List<User> GetAllUsers();
     User? GetUserById(string id);
 }

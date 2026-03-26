@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\IT\\Projects\\С#\\apbd-cw3-s33244\\apbd-cw3-s33244\\apbd-cw3-s33244.csproj": {}
+    "C:\\IT\\Projects\\С#\\apbd-cw3-s33244-clean\\apbd-cw3-s33244-clean.csproj": {}
   },
   "projects": {
-    "C:\\IT\\Projects\\С#\\apbd-cw3-s33244\\apbd-cw3-s33244\\apbd-cw3-s33244.csproj": {
+    "C:\\IT\\Projects\\С#\\apbd-cw3-s33244-clean\\apbd-cw3-s33244-clean.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\IT\\Projects\\С#\\apbd-cw3-s33244\\apbd-cw3-s33244\\apbd-cw3-s33244.csproj",
-        "projectName": "apbd-cw3-s33244",
-        "projectPath": "C:\\IT\\Projects\\С#\\apbd-cw3-s33244\\apbd-cw3-s33244\\apbd-cw3-s33244.csproj",
+        "projectUniqueName": "C:\\IT\\Projects\\С#\\apbd-cw3-s33244-clean\\apbd-cw3-s33244-clean.csproj",
+        "projectName": "apbd-cw3-s33244-clean",
+        "projectPath": "C:\\IT\\Projects\\С#\\apbd-cw3-s33244-clean\\apbd-cw3-s33244-clean.csproj",
         "packagesPath": "C:\\Users\\gikor\\.nuget\\packages\\",
-        "outputPath": "C:\\IT\\Projects\\С#\\apbd-cw3-s33244\\apbd-cw3-s33244\\obj\\",
+        "outputPath": "C:\\IT\\Projects\\С#\\apbd-cw3-s33244-clean\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gikor\\AppData\\Roaming\\NuGet\\NuGet.Config"

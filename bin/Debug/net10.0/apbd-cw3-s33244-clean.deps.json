@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v10.0": {
-      "apbd-cw3-s33244/1.0.0": {
+      "apbd-cw3-s33244-clean/1.0.0": {
         "runtime": {
-          "apbd-cw3-s33244.dll": {}
+          "apbd-cw3-s33244-clean.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "apbd-cw3-s33244/1.0.0": {
+    "apbd-cw3-s33244-clean/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
